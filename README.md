@@ -1,7 +1,17 @@
-# to do app
+###### Simple command line TO DO app
 
-### command line to do app created with Node.js
+- You can get information about todays currency value.
 
-```
-NodeJS
-```
+#### How to use?
+
+- clone this repo
+- run `npm install`
+- add a new task `--add=task-name`
+- remove task `--remove=task-name`
+- list all the tasks `--list`
+- task  have to be at least 6 characters long
+- task have to be a string
+
+#### Tech:
+
+- `Node version: 10.15.0`
