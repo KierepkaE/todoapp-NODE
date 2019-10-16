@@ -6,7 +6,7 @@
 
 - clone this repo
 - run `npm install`
-(`in command line:`)
+- (`in command line type and hit enter:`)
 - add a new task `--add=task-name`
 - remove task `--remove=task-name`
 - list all the tasks `--list`
