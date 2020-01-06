@@ -1,6 +1,6 @@
 ###### Simple command line TO DO app
 
-- You can get information about todays currency value.
+> You can get information about todays currency value.
 
 #### How to use?
 
